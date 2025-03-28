@@ -22,10 +22,24 @@
 ---
 
 ## 🏆 **Proyectos Destacados**
-🔹 **[Sistema de Turnos](https://github.com/EmanuelPaz05/SistemaTurnos)** - Maneja más de 4000 turnos y 800 clientes activos mensuales.  
-🔹 **[Sistema de Gestión de Stock](https://github.com/EmanuelPaz05/StockManager)** - Gestión de stock personalizada para diversos negocios.  
-🔹 **[Tracker de Series y Películas](https://github.com/EmanuelPaz05/SeriesTracker)** - Registro y calificación de series y películas.  
-🔹 **[Sitio Web Corporativo NetSol](https://github.com/EmanuelPaz05/NetSolWebsite)** - Página de presentación para una empresa de software.  
+
+🔹 **[Sistema de Turnos](https://github.com/EmanuelPaz05/Sistema-de-Turnos)**  
+Plataforma de gestión de turnos utilizada por peluquerías y otros negocios. Maneja más de 4000 turnos y 800 clientes activos mensuales.
+
+🔹 **[Sistema de Gestión para Tiendas de Ropa](https://github.com/EmanuelPaz05/Sistema-de-Gestion-Tiendas-de-ropa)**  
+Solución personalizada para la administración de stock, ventas y clientes en tiendas de ropa.
+
+🔹 **[Sistema Admin Para Gimnasios](https://github.com/EmanuelPaz05/Sistema-Admin-Para-Gimnasios)**  
+Plataforma integral para la administración de gimnasios con gestión de clientes, planes, pagos y reportes financieros.
+
+🔹 **[Sistema de Gestión de Stock para Negocios](https://github.com/EmanuelPaz05/Sistema-de-Gestion-de-Stock-para-Negocios)**  
+Plataforma personalizada para la gestión de stock en kioscos, tiendas de ropa y otros comercios.
+
+🔹 **[Sitio Web Corporativo NetSol](https://github.com/EmanuelPaz05/Sitio-Web-Corporativo---NetSol)**  
+Página de presentación para NetSol, empresa de soluciones tecnológicas.
+
+🔹 **[Tracker de Películas y Series](https://github.com/EmanuelPaz05/Tracker-de-Peliculas-y-Series)**  
+Aplicación para registrar y calificar series y películas, llevando un control de episodios vistos.
 
 📌 **Explora todos mis proyectos en mi [portafolio](https://emanuelpaz.site/Portafolio/).**  
 
