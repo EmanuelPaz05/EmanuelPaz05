@@ -8,9 +8,9 @@
 | --- | --- |
 | Perfil profesional | [Portfolio](https://emanuel-paz-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/emapaz05/) |
 | Proyecto principal | [Net-Gestión (sitio comercial)](https://netgestion.ar/) · [Caso de estudio](https://emanuel-paz-portfolio.vercel.app/proyectos/netgestion.html) |
-| Repositorio público del proyecto principal | [Demo académica de Net-Gestión](https://github.com/EmanuelPaz05/Sistema-de-Gestion-de-Stock-para-Negocios) |
+| Repositorio público del proyecto principal | [Demo académica de Net-Gestión](https://github.com/EmanuelPaz05/NetGestion-Presentacion) |
 | Automatización ejecutable | [Reportes comerciales por correo (demo autónoma)](https://github.com/EmanuelPaz05/NetGestion-Automatizacion-Reportes) — genera reportes ficticios en JSON/HTML y permite envío opcional mediante Resend. |
-| Documentación técnica | [README del proyecto grande](https://github.com/EmanuelPaz05/Sistema-de-Gestion-de-Stock-para-Negocios#readme) · [README de la automatización](https://github.com/EmanuelPaz05/NetGestion-Automatizacion-Reportes/blob/main/README.md) |
+| Documentación técnica | [README del proyecto grande](https://github.com/EmanuelPaz05/NetGestion-Presentacion#readme) · [README de la automatización](https://github.com/EmanuelPaz05/NetGestion-Automatizacion-Reportes/blob/main/README.md) |
 
 > El producto comercial Net-Gestión y las demos académicas son implementaciones distintas. La demo pública y la automatización viven en **dos repositorios públicos distintos**. No incluyen datos ni código de producción.
 
@@ -30,7 +30,7 @@
 - **Caso recomendado para explicar:** un reporte enviado automáticamente por correo, precisando el disparador real, el contenido y cómo se comprueba el envío.
 - **Automatización ejecutable:** [Reportes por correo](https://github.com/EmanuelPaz05/NetGestion-Automatizacion-Reportes) — genera JSON/HTML desde ventas ficticias; envío externo desactivado por defecto.
 - **Ejecutar:** desde `NetGestion-Automatizacion-Reportes`, `npm start -- --date=2026-11-11` y abrir `output/reporte.html`.
-- **Documento técnico de integraciones reales:** [Automatizaciones de Net-Gestión](https://github.com/EmanuelPaz05/Sistema-de-Gestion-de-Stock-para-Negocios/blob/main/docs/automatizaciones-netgestion.md).
+- **Documento técnico de integraciones reales:** [Automatizaciones de Net-Gestión](https://github.com/EmanuelPaz05/NetGestion-Presentacion/blob/main/docs/automatizaciones-netgestion.md).
 - **Advertencia:** la demo de reportes es una reimplementación educativa; no asegura la misma arquitectura de producción ni implementa ARCA, Tiendanube o Gmail. Resend es opcional con credenciales de prueba.
 
 ### 4:15–4:45 · Activos profesionales
