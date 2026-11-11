@@ -13,7 +13,7 @@
 
 ### Coloquio integrador 2026
 
-**[Guía del coloquio](./COLOQUIO.md)** · [Proyecto principal: Net-Gestión Demo](https://github.com/EmanuelPaz05/Sistema-de-Gestion-de-Stock-para-Negocios) · [Automatización ejecutable: Reportes por correo](https://github.com/EmanuelPaz05/NetGestion-Automatizacion-Reportes)
+**[Guía del coloquio](./COLOQUIO.md)** · [Proyecto principal: Net-Gestión Demo](https://github.com/EmanuelPaz05/NetGestion-Presentacion) · [Automatización ejecutable: Reportes por correo](https://github.com/EmanuelPaz05/NetGestion-Automatizacion-Reportes)
 
 ---
 
@@ -38,16 +38,16 @@ Actualmente curso la **Tecnicatura en Desarrollo de Software** (finalización pr
 
 ## Proyectos para conocer mi trabajo
 
-### [Net-Gestión — caso comercial y demo pública](https://github.com/EmanuelPaz05/Sistema-de-Gestion-de-Stock-para-Negocios)
+### [Net-Gestión — caso comercial y demo pública](https://github.com/EmanuelPaz05/NetGestion-Presentacion)
 Desarrollo comercial desde NetSol orientado a la gestión de comercios. Preparé además una **demo académica independiente** para mostrar un flujo completo con código público: catálogo, stock, ventas, movimientos, API Node.js y pruebas.
 
-- **Código ejecutable de la demo:** [Net-Gestión Demo](https://github.com/EmanuelPaz05/Sistema-de-Gestion-de-Stock-para-Negocios)
-- **Arquitectura y ejecución:** [README técnico](https://github.com/EmanuelPaz05/Sistema-de-Gestion-de-Stock-para-Negocios#readme)
+- **Código ejecutable de la demo:** [Net-Gestión Demo](https://github.com/EmanuelPaz05/NetGestion-Presentacion)
+- **Arquitectura y ejecución:** [README técnico](https://github.com/EmanuelPaz05/NetGestion-Presentacion#readme)
 - **Producto comercial (caso de estudio):** [Ver en el portfolio](https://emanuel-paz-portfolio.vercel.app/proyectos/netgestion.html)
 - El código comercial y los datos reales de clientes permanecen privados.
 
-### [Automatizaciones profesionales — Net-Gestión](https://github.com/EmanuelPaz05/Sistema-de-Gestion-de-Stock-para-Negocios/blob/main/docs/automatizaciones-netgestion.md)
-Integraciones del producto comercial: facturación ARCA, Tiendanube, reportes automáticos por Gmail y correos con Resend. [Ver caso de estudio](https://github.com/EmanuelPaz05/Sistema-de-Gestion-de-Stock-para-Negocios/blob/main/docs/automatizaciones-netgestion.md) y [demo ejecutable de reportes](https://github.com/EmanuelPaz05/NetGestion-Automatizacion-Reportes). La demo es educativa y no incluye código ni datos de producción.
+### [Automatizaciones profesionales — Net-Gestión](https://github.com/EmanuelPaz05/NetGestion-Presentacion/blob/main/docs/automatizaciones-netgestion.md)
+Integraciones del producto comercial: facturación ARCA, Tiendanube, reportes automáticos por Gmail y correos con Resend. [Ver caso de estudio](https://github.com/EmanuelPaz05/NetGestion-Presentacion/blob/main/docs/automatizaciones-netgestion.md) y [demo ejecutable de reportes](https://github.com/EmanuelPaz05/NetGestion-Automatizacion-Reportes). La demo es educativa y no incluye código ni datos de producción.
 
 ### [OrientaIA — proyecto académico de orientación vocacional](https://github.com/EmanuelPaz05/OrientaIA)
 Proyecto realizado una vez para la facultad junto con Juan Bertossi. Implementa el procesamiento de cuestionarios y la generación de reportes de afinidad mediante reglas y soporte opcional para modelos de IA. No es un producto comercial ni un sistema en uso continuo.
