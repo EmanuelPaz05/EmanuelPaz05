@@ -32,11 +32,13 @@ Actualmente curso la **Tecnicatura en Desarrollo de Software** (finalización pr
 
 ## Proyectos para conocer mi trabajo
 
-### [Net-Gestión — sistema de gestión comercial](https://emanuel-paz-portfolio.vercel.app/proyectos/netgestion.html)
-Producto desarrollado desde NetSol para la gestión de operaciones de comercios y negocios. Incluye flujos de stock, ventas y administración comercial.
+### [Net-Gestión — caso comercial y demo pública](https://github.com/EmanuelPaz05/Sistema-de-Gestion-de-Stock-para-Negocios)
+Desarrollo comercial desde NetSol orientado a la gestión de comercios. Preparé además una **demo académica independiente** para mostrar un flujo completo con código público: catálogo, stock, ventas, movimientos, API Node.js y pruebas.
 
-- **Caso de estudio y capturas:** [Ver en el portfolio](https://emanuel-paz-portfolio.vercel.app/proyectos/netgestion.html)
-- **Código:** el producto comercial no se publica aquí como repositorio abierto.
+- **Código ejecutable de la demo:** [Net-Gestión Demo](https://github.com/EmanuelPaz05/Sistema-de-Gestion-de-Stock-para-Negocios)
+- **Arquitectura y ejecución:** [README técnico](https://github.com/EmanuelPaz05/Sistema-de-Gestion-de-Stock-para-Negocios#readme)
+- **Producto comercial (caso de estudio):** [Ver en el portfolio](https://emanuel-paz-portfolio.vercel.app/proyectos/netgestion.html)
+- El código comercial y los datos reales de clientes permanecen privados.
 
 ### [OrientaIA — reportes de orientación vocacional](https://github.com/EmanuelPaz05/OrientaIA)
 Proyecto de orientación vocacional para estudiantes secundarios. Automatiza el procesamiento de cuestionarios y la generación de reportes de afinidad, utilizando un motor de reglas y soporte opcional para modelos de IA.
