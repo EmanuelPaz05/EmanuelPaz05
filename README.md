@@ -46,6 +46,9 @@ Desarrollo comercial desde NetSol orientado a la gestión de comercios. Preparé
 - **Producto comercial (caso de estudio):** [Ver en el portfolio](https://emanuel-paz-portfolio.vercel.app/proyectos/netgestion.html)
 - El código comercial y los datos reales de clientes permanecen privados.
 
+### [Automatizaciones profesionales — Net-Gestión](https://github.com/EmanuelPaz05/Sistema-de-Gestion-de-Stock-para-Negocios/blob/main/docs/automatizaciones-netgestion.md)
+Integraciones que desarrollé en el producto comercial: facturación ARCA, Tiendanube, reportes automáticos por Gmail y correos con Resend. [Ver el caso de estudio](https://github.com/EmanuelPaz05/Sistema-de-Gestion-de-Stock-para-Negocios/blob/main/docs/automatizaciones-netgestion.md). El código de producción no es público.
+
 ### [OrientaIA — proyecto académico de orientación vocacional](https://github.com/EmanuelPaz05/OrientaIA)
 Proyecto realizado una vez para la facultad junto con Juan Bertossi. Implementa el procesamiento de cuestionarios y la generación de reportes de afinidad mediante reglas y soporte opcional para modelos de IA. No es un producto comercial ni un sistema en uso continuo.
 
