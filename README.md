@@ -11,6 +11,12 @@
 
 </div>
 
+### Coloquio integrador 2026
+
+**[Ver guía de presentación y los dos proyectos](./COLOQUIO.md)** · [Net-Gestión Demo](https://github.com/EmanuelPaz05/Sistema-de-Gestion-de-Stock-para-Negocios) · [OrientaIA](https://github.com/EmanuelPaz05/OrientaIA)
+
+---
+
 ## Sobre mí
 
 Soy desarrollador Full Stack y trabajo en **GoodApps** y en **NetSol**, donde desarrollo soluciones para negocios, instituciones educativas y clientes con necesidades específicas. Me enfoco en resolver problemas concretos mediante sistemas web: gestión de operaciones, stock, turnos, integraciones y automatización de procesos.
