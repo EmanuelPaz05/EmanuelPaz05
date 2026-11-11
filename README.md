@@ -46,8 +46,8 @@ Desarrollo comercial desde NetSol orientado a la gestión de comercios. Preparé
 - **Producto comercial (caso de estudio):** [Ver en el portfolio](https://emanuel-paz-portfolio.vercel.app/proyectos/netgestion.html)
 - El código comercial y los datos reales de clientes permanecen privados.
 
-### [OrientaIA — reportes de orientación vocacional](https://github.com/EmanuelPaz05/OrientaIA)
-Proyecto de orientación vocacional para estudiantes secundarios. Automatiza el procesamiento de cuestionarios y la generación de reportes de afinidad, utilizando un motor de reglas y soporte opcional para modelos de IA.
+### [OrientaIA — proyecto académico de orientación vocacional](https://github.com/EmanuelPaz05/OrientaIA)
+Proyecto realizado una vez para la facultad junto con Juan Bertossi. Implementa el procesamiento de cuestionarios y la generación de reportes de afinidad mediante reglas y soporte opcional para modelos de IA. No es un producto comercial ni un sistema en uso continuo.
 
 - **Frontend:** React y Vite
 - **Backend:** Node.js y Express
