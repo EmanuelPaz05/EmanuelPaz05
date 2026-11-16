@@ -27,9 +27,9 @@
 
 ### 3:00–4:15 · Automatización real: Net-Gestión
 - **Casos implementados:** facturación ARCA, integración Tiendanube, reportes automáticos por Gmail y correos con Resend en Net-Gestión.
-- **Caso recomendado para explicar:** un reporte enviado automáticamente por correo, precisando el disparador real, el contenido y cómo se comprueba el envío.
-- **Automatización ejecutable:** [Reportes por correo](https://github.com/EmanuelPaz05/NetGestion-Automatizacion-Reportes) — genera JSON/HTML desde ventas ficticias; envío externo desactivado por defecto.
-- **Ejecutar:** desde `NetGestion-Automatizacion-Reportes`, `npm start -- --date=2026-11-11` y abrir `output/reporte.html`.
+- **Caso recomendado para explicar:** un resumen semanal con ventas, medios de cobro (incluidas transferencias), estados de facturación y su envío por correo. El código público es una simulación separada.
+- **Automatización ejecutable:** [Reportes por correo](https://github.com/EmanuelPaz05/NetGestion-Automatizacion-Reportes) — genera JSON/HTML desde ventas ficticias y ahora también un resumen semanal con transferencias y comprobantes de ejemplo; envío externo desactivado por defecto.
+- **Ejecutar:** desde `NetGestion-Automatizacion-Reportes`, `npm run weekly` y abrir `output/resumen-semanal.html`.
 - **Documento técnico de integraciones reales:** [Automatizaciones de Net-Gestión](https://github.com/EmanuelPaz05/NetGestion-Presentacion/blob/main/docs/automatizaciones-netgestion.md).
 - **Advertencia:** la demo de reportes es una reimplementación educativa; no asegura la misma arquitectura de producción ni implementa ARCA, Tiendanube o Gmail. Resend es opcional con credenciales de prueba.
 
@@ -43,8 +43,8 @@ Mostrar README de GitHub y enlaces al portfolio, LinkedIn y repositorios.
 
 - [ ] Fijar los dos repositorios públicos (Net-Gestión Demo y NetGestion-Automatizacion-Reportes) desde «Customize your pins».
 - [ ] Ejecutar `npm test` y `npm start` en la demo Net-Gestión.
-- [ ] Desde `NetGestion-Automatizacion-Reportes/`, ejecutar `npm test` y `npm start -- --date=2026-11-11`, comprobando `output/reporte.html`.
-- [ ] Agregar la automatización de reportes, capturas de ambos proyectos y enlaces al portfolio de Vercel.
+- [ ] Desde `NetGestion-Automatizacion-Reportes/`, ejecutar `npm test` y `npm run weekly`, comprobando `output/resumen-semanal.html`.
+- [ ] Incorporar también OrientaIA como proyecto académico (no comercial) y revisar las capturas y enlaces del portfolio.
 - [ ] Confirmar que el PDF del CV técnico tenga enlaces correctos.
 - [ ] Ensayar el recorrido cronometrado y entregar enlaces/PDF antes del coloquio.
 
