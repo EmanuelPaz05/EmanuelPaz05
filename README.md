@@ -19,7 +19,7 @@
 
 ## Sobre mí
 
-Soy desarrollador Full Stack y trabajo en **GoodApps** y en **NetSol**, donde desarrollo soluciones para negocios, instituciones educativas y clientes con necesidades específicas. Me enfoco en resolver problemas concretos mediante sistemas web: gestión de operaciones, stock, turnos, integraciones y automatización de procesos.
+Soy desarrollador Full Stack en **GoodApps** y desarrollo soluciones desde **[NetSol](https://netsol.ar/)**: sistemas para comercios, instituciones educativas y municipios, además de infraestructura y soporte. Mi producto principal es **[Net-Gestión](https://netgestion.ar/)**, utilizado por más de **30 clientes reales**. Me enfoco en resolver problemas concretos mediante sistemas web: gestión de operaciones, stock, turnos, integraciones y automatización de procesos.
 
 Actualmente curso la **Tecnicatura en Desarrollo de Software** (finalización prevista en 2026).
 
@@ -47,7 +47,7 @@ Desarrollo comercial desde NetSol orientado a la gestión de comercios. Preparé
 - El código comercial y los datos reales de clientes permanecen privados.
 
 ### [Automatizaciones profesionales — Net-Gestión](https://github.com/EmanuelPaz05/NetGestion-Presentacion/blob/main/docs/automatizaciones-netgestion.md)
-Integraciones del producto comercial: facturación ARCA, Tiendanube, reportes automáticos por Gmail y correos con Resend. [Ver caso de estudio](https://github.com/EmanuelPaz05/NetGestion-Presentacion/blob/main/docs/automatizaciones-netgestion.md) y [demo ejecutable de reportes](https://github.com/EmanuelPaz05/NetGestion-Automatizacion-Reportes). La demo es educativa y no incluye código ni datos de producción.
+Integraciones del producto comercial: facturación ARCA, Tiendanube, reportes semanales, movimientos de cobros —incluidas transferencias— y correos mediante Gmail y Resend. [Ver caso de estudio](https://github.com/EmanuelPaz05/NetGestion-Presentacion/blob/main/docs/automatizaciones-netgestion.md) y [demo ejecutable de reportes](https://github.com/EmanuelPaz05/NetGestion-Automatizacion-Reportes). La demo ahora incluye un **resumen semanal ejecutable** con desglose de medios de pago y estados ficticios de comprobantes. Es educativa y no incluye código ni datos de producción.
 
 ### [OrientaIA — proyecto académico de orientación vocacional](https://github.com/EmanuelPaz05/OrientaIA)
 Proyecto realizado una vez para la facultad junto con Juan Bertossi. Implementa el procesamiento de cuestionarios y la generación de reportes de afinidad mediante reglas y soporte opcional para modelos de IA. No es un producto comercial ni un sistema en uso continuo.
