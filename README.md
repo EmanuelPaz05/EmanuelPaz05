@@ -1,74 +1,63 @@
 <div align="center">
 
 # Emanuel Paz
-### Desarrollador Full Stack · Software para empresas y productos SaaS
 
-**Córdoba, Argentina** · Desarrollo web, APIs, bases de datos e infraestructura
+**Desarrollador Full Stack | React · Next.js · Node.js · PHP**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visitar-0f766e?style=for-the-badge&logo=vercel&logoColor=white)](https://emanuel-paz-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emapaz05/)
-[![Email](https://img.shields.io/badge/Email-Contacto-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emanuelpazdeveloper@gmail.com)
+Desarrollo de productos SaaS y software para negocios e instituciones.  
+Pilar, Córdoba, Argentina.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-171717?style=for-the-badge&logo=vercel&logoColor=white)](https://emanuel-paz-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emapaz05/)
+[![Contacto](https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emanuelpazdeveloper@gmail.com)
 
 </div>
 
-### Coloquio integrador 2026
+## Perfil profesional
 
-**[Guía del coloquio](./COLOQUIO.md)** · [Proyecto principal: Net-Gestión Demo](https://github.com/EmanuelPaz05/NetGestion-Presentacion) · [Automatización ejecutable: Reportes por correo](https://github.com/EmanuelPaz05/NetGestion-Automatizacion-Reportes)
+Soy desarrollador Full Stack con más de dos años de experiencia en desarrollo de aplicaciones web y sistemas de gestión. Actualmente trabajo en **GoodApps** y desarrollo productos y soluciones a medida desde **[NetSol](https://netsol.ar/)**.
 
----
+Me involucro tanto en el desarrollo como en el relevamiento de necesidades, la comunicación con clientes, la implementación y el mantenimiento de aplicaciones.
 
-## Sobre mí
+## Experiencia
 
-Soy desarrollador Full Stack en **GoodApps** y desarrollo soluciones desde **[NetSol](https://netsol.ar/)**: sistemas para comercios, instituciones educativas y municipios, además de infraestructura y soporte. Mi producto principal es **[Net-Gestión](https://netgestion.ar/)**, utilizado por más de **30 clientes reales**. Me enfoco en resolver problemas concretos mediante sistemas web: gestión de operaciones, stock, turnos, integraciones y automatización de procesos.
+### GoodApps | Desarrollador Full Stack
 
-Actualmente curso la **Tecnicatura en Desarrollo de Software** (finalización prevista en 2026).
+- Desarrollo y mantenimiento de aplicaciones web para distintos proyectos.
+- Participación en tres proyectos, con responsabilidades técnicas y coordinación de tareas del equipo.
+- Comunicación con clientes para comprender requerimientos, implementar mejoras y resolver incidencias.
+
+### NetSol | Desarrollo de software y soluciones a medida
+
+- Desarrollo e implementación de sistemas de gestión para comercios, instituciones educativas y otros clientes.
+- Trabajo directo con clientes, desde el relevamiento de necesidades hasta la puesta en funcionamiento.
+- Administración de despliegues, dominios, servidores y mantenimiento de aplicaciones.
+
+## Producto destacado
+
+### [Net-Gestión — Sistema de gestión comercial](https://netgestion.ar/)
+
+Producto desarrollado desde NetSol y utilizado por **más de 30 clientes**. Centraliza procesos cotidianos de negocios, como ventas, control de stock, caja, cuentas corrientes y reportes.
+
+Incluye funcionalidades para sucursales, integración con facturación electrónica ARCA y Tiendanube, según la configuración y las necesidades de cada comercio.
+
+**[Sitio del producto](https://netgestion.ar/)** · **[Caso de estudio en mi portfolio](https://emanuel-paz-portfolio.vercel.app/proyectos/netgestion.html)**
 
 ## Tecnologías y herramientas
 
-| Área | Herramientas |
+| Área | Tecnologías |
 | --- | --- |
 | Frontend | React, Next.js, JavaScript, TypeScript, HTML, CSS, Bootstrap, Tailwind CSS |
 | Backend | Node.js, Express, PHP, APIs REST |
-| Bases de datos y servicios | MySQL, SQL Server, Supabase |
-| Control de versiones y CI/CD | Git, GitHub, ramas y pull requests, GitHub Actions |
-| Infraestructura y despliegue | Vercel, VPS, cPanel, Webuzo, dominios, FTP y SFTP |
-| Automatización | Playwright e integraciones con APIs |
+| Bases de datos | MySQL, SQL Server, Supabase |
+| Versionado y CI/CD | Git, GitHub, trabajo con ramas, GitHub Actions |
+| Infraestructura | Vercel, VPS, cPanel, Webuzo, dominios, FTP y SFTP |
+| Integraciones y testing | APIs externas, Playwright |
 
-> Tecnologías incluidas según mi experiencia real; no utilizo MongoDB.
+## Formación
 
-## Proyectos para conocer mi trabajo
-
-### [Net-Gestión — caso comercial y demo pública](https://github.com/EmanuelPaz05/NetGestion-Presentacion)
-Desarrollo comercial desde NetSol orientado a la gestión de comercios. Preparé además una **demo académica independiente** para mostrar un flujo completo con código público: catálogo, stock, ventas, movimientos, API Node.js y pruebas.
-
-- **Código ejecutable de la demo:** [Net-Gestión Demo](https://github.com/EmanuelPaz05/NetGestion-Presentacion)
-- **Arquitectura y ejecución:** [README técnico](https://github.com/EmanuelPaz05/NetGestion-Presentacion#readme)
-- **Producto comercial (caso de estudio):** [Ver en el portfolio](https://emanuel-paz-portfolio.vercel.app/proyectos/netgestion.html)
-- El código comercial y los datos reales de clientes permanecen privados.
-
-### [Automatizaciones profesionales — Net-Gestión](https://github.com/EmanuelPaz05/NetGestion-Presentacion/blob/main/docs/automatizaciones-netgestion.md)
-Integraciones del producto comercial: facturación ARCA, Tiendanube, reportes semanales, movimientos de cobros —incluidas transferencias— y correos mediante Gmail y Resend. [Ver caso de estudio](https://github.com/EmanuelPaz05/NetGestion-Presentacion/blob/main/docs/automatizaciones-netgestion.md) y [demo ejecutable de reportes](https://github.com/EmanuelPaz05/NetGestion-Automatizacion-Reportes). La demo ahora incluye un **resumen semanal ejecutable** con desglose de medios de pago y estados ficticios de comprobantes. Es educativa y no incluye código ni datos de producción.
-
-### [OrientaIA — proyecto académico de orientación vocacional](https://github.com/EmanuelPaz05/OrientaIA)
-Proyecto realizado una vez para la facultad junto con Juan Bertossi. Implementa el procesamiento de cuestionarios y la generación de reportes de afinidad mediante reglas y soporte opcional para modelos de IA. No es un producto comercial ni un sistema en uso continuo.
-
-- **Frontend:** React y Vite
-- **Backend:** Node.js y Express
-- **Ejecución y arquitectura:** disponibles en el [README del proyecto](https://github.com/EmanuelPaz05/OrientaIA#readme)
-- Proyecto realizado con **Juan Bertossi**.
-
-### Otros trabajos
-
-- [Sistema de Turnos](https://github.com/EmanuelPaz05/Sistema-de-Turnos) — caso de sistema de reservas para negocios.
-- [Gestión de tiendas de ropa](https://github.com/EmanuelPaz05/Sistema-de-Gestion-Tiendas-de-ropa) — administración de stock, ventas y clientes.
-- [Sistema para gimnasios](https://github.com/EmanuelPaz05/Sistema-Admin-Para-Gimnasios) — gestión administrativa.
-
-Los repositorios que funcionan como **presentaciones de casos** pueden no incluir el código de producción.
+**Tecnicatura en Desarrollo de Software** · En curso (finalización prevista en 2026).
 
 ---
 
-### Más información
-
-- [Portfolio y proyectos](https://emanuel-paz-portfolio.vercel.app/)
-- [LinkedIn](https://www.linkedin.com/in/emapaz05/)
-- **Contacto:** emanuelpazdeveloper@gmail.com
+**[Portfolio](https://emanuel-paz-portfolio.vercel.app/)** · **[LinkedIn](https://www.linkedin.com/in/emapaz05/)** · **[NetSol](https://netsol.ar/)** · **[Net-Gestión](https://netgestion.ar/)**
