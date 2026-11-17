@@ -7,6 +7,7 @@
 Desarrollo de productos SaaS y software para negocios e instituciones.  
 Pilar, Córdoba, Argentina.
 
+[![NetSol](https://img.shields.io/badge/NetSol-Ver%20web-176b63?style=for-the-badge)](https://netsol.ar/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-171717?style=for-the-badge&logo=vercel&logoColor=white)](https://emanuel-paz-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emapaz05/)
 [![Contacto](https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emanuelpazdeveloper@gmail.com)
@@ -45,10 +46,12 @@ Incluye funcionalidades para sucursales, integración con facturación electrón
 
 ## Proyectos destacados · NetSol
 
-Estos son los trabajos y productos que quiero mostrar profesionalmente, ordenados por relevancia. Las implementaciones comerciales permanecen privadas.
+**[Ver el sitio de NetSol — servicios y proyectos](https://netsol.ar/)**
+
+Estos son algunos productos y líneas de trabajo de NetSol. El código de las implementaciones comerciales permanece privado.
 
 | Proyecto | Enfoque |
-| --- | --- |
+| --- | --- | --- |
 | **[NetGestión](https://github.com/EmanuelPaz05/NetGestion-Presentacion)** | Gestión comercial; producto real con más de 30 clientes |
 | **[ISCP — Colegios secundarios](https://github.com/EmanuelPaz05/Sitio-Web-Corporativo---NetSol/blob/main/presentaciones/iscp-secundarios.md)** | Soluciones para instituciones de educación secundaria |
 | **[Municipalidades y comunas](https://github.com/EmanuelPaz05/Sitio-Web-Corporativo---NetSol/blob/main/presentaciones/municipios-comunas.md)** | Herramientas administrativas e infraestructura para gobiernos locales |
