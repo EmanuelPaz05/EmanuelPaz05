@@ -47,20 +47,20 @@ Incluye funcionalidades para sucursales, integración con facturación electrón
 
 Estos son los trabajos y productos que quiero mostrar profesionalmente, ordenados por relevancia. Las implementaciones comerciales permanecen privadas.
 
-| Orden | Proyecto | Enfoque |
-| --- | --- | --- |
-| **01** | **[NetGestión](https://github.com/EmanuelPaz05/NetGestion-Presentacion)** | Gestión comercial; producto real con más de 30 clientes |
-| **02** | **[ISCP — Colegios secundarios](https://github.com/EmanuelPaz05/Sitio-Web-Corporativo---NetSol/blob/main/presentaciones/iscp-secundarios.md)** | Soluciones para instituciones de educación secundaria |
-| **03** | **[Municipalidades y comunas](https://github.com/EmanuelPaz05/Sitio-Web-Corporativo---NetSol/blob/main/presentaciones/municipios-comunas.md)** | Herramientas administrativas e infraestructura para gobiernos locales |
-| **04** | **[CRAF](https://github.com/EmanuelPaz05/Sitio-Web-Corporativo---NetSol/blob/main/presentaciones/craf.md)** | Gestión de pacientes, planes, sesiones, caja y reportes |
-| **05** | **[OptiNet](https://github.com/EmanuelPaz05/Sitio-Web-Corporativo---NetSol/blob/main/presentaciones/optinet.md)** | SaaS en desarrollo para ópticas |
+| Proyecto | Enfoque |
+| --- | --- |
+| **[NetGestión](https://github.com/EmanuelPaz05/NetGestion-Presentacion)** | Gestión comercial; producto real con más de 30 clientes |
+| **[ISCP — Colegios secundarios](https://github.com/EmanuelPaz05/Sitio-Web-Corporativo---NetSol/blob/main/presentaciones/iscp-secundarios.md)** | Soluciones para instituciones de educación secundaria |
+| **[Municipalidades y comunas](https://github.com/EmanuelPaz05/Sitio-Web-Corporativo---NetSol/blob/main/presentaciones/municipios-comunas.md)** | Herramientas administrativas e infraestructura para gobiernos locales |
+| **[CRAF](https://github.com/EmanuelPaz05/Sitio-Web-Corporativo---NetSol/blob/main/presentaciones/craf.md)** | Gestión de pacientes, planes, sesiones, caja y reportes |
+| **[OptiNet](https://github.com/EmanuelPaz05/Sitio-Web-Corporativo---NetSol/blob/main/presentaciones/optinet.md)** | SaaS en desarrollo para ópticas |
 
 [Ver todas las presentaciones de NetSol](https://github.com/EmanuelPaz05/Sitio-Web-Corporativo---NetSol/tree/main/presentaciones).
 
 ## Tecnologías y herramientas
 
 | Área | Tecnologías |
-| --- | --- |
+| --- |
 | Frontend | React, Next.js, JavaScript, TypeScript, HTML, CSS, Bootstrap, Tailwind CSS |
 | Backend | Node.js, Express, PHP, APIs REST |
 | Bases de datos | MySQL, SQL Server, Supabase |
