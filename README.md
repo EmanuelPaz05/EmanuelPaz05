@@ -53,10 +53,10 @@ Estos son algunos productos y líneas de trabajo de NetSol. El código de las im
 | Proyecto | Enfoque |
 | --- | --- | --- |
 | **[NetGestión](https://github.com/EmanuelPaz05/NetGestion-Presentacion)** | Gestión comercial; producto real con más de 30 clientes |
-| **[ISCP — Colegios secundarios](https://github.com/EmanuelPaz05/Sitio-Web-Corporativo---NetSol/blob/main/presentaciones/iscp-secundarios.md)** | Soluciones para instituciones de educación secundaria |
-| **[Municipalidades y comunas](https://github.com/EmanuelPaz05/Sitio-Web-Corporativo---NetSol/blob/main/presentaciones/municipios-comunas.md)** | Herramientas administrativas e infraestructura para gobiernos locales |
-| **[CRAF](https://github.com/EmanuelPaz05/Sitio-Web-Corporativo---NetSol/blob/main/presentaciones/craf.md)** | Gestión de pacientes, planes, sesiones, caja y reportes |
-| **[OptiNet](https://github.com/EmanuelPaz05/Sitio-Web-Corporativo---NetSol/blob/main/presentaciones/optinet.md)** | SaaS en desarrollo para ópticas |
+| **[ISCP — Colegios secundarios](https://github.com/EmanuelPaz05/ISCP-Presentacion)** | Soluciones para instituciones de educación secundaria |
+| **[Municipalidades y comunas](https://github.com/EmanuelPaz05/Municipios-Comunas-Presentacion)** | Herramientas administrativas e infraestructura para gobiernos locales |
+| **[CRAF](https://github.com/EmanuelPaz05/CRAF-Presentacion)** | Gestión de pacientes, planes, sesiones, caja y reportes |
+| **[OptiNet](https://github.com/EmanuelPaz05/OptiNet-Presentacion)** | SaaS en desarrollo para ópticas |
 
 [Ver todas las presentaciones de NetSol](https://github.com/EmanuelPaz05/Sitio-Web-Corporativo---NetSol/tree/main/presentaciones).
 
